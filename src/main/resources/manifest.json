@@ -1,0 +1,21 @@
+{
+    "Group": "BlameJared",
+    "Name": "ThoriumFurnaces",
+    "Version": "1.0.0",
+    "Description": "Faster Furnaces!",
+    "Authors": [
+        {
+            "Name": "Jaredlll08",
+            "Url": "https://blamejared.com"
+        }
+    ],
+    "Website": "https://legacy.curseforge.com/hytale/mods/thorium-furnaces",
+    "ServerVersion": "*",
+    "Dependencies": {
+        
+    },
+    "OptionalDependencies": {
+        
+    },
+    "DisabledByDefault": false
+}
