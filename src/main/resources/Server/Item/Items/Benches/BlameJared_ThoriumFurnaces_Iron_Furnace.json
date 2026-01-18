@@ -24,7 +24,7 @@
     ],
     "Output": [
       {
-        "ItemId": "Bench_Furnace",
+        "ItemId": "BlameJared_ThoriumFurnaces_Iron_Furnace",
         "Metadata": {
           "BlockState": {
             "Type": "processingBench",
@@ -105,7 +105,8 @@
       "Id": "Furnace",
       "TierLevels": [
         {
-          "CraftingTimeReductionModifier": 0.2
+          "CraftingTimeReductionModifier": 0.2,
+          "ExtraInputSlot": 1
         }
       ]
     },
