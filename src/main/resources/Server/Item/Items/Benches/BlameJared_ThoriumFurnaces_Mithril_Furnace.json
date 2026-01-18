@@ -10,7 +10,12 @@
   "Recipe": {
     "Input": [
       {
-        "ItemId": "Bench_Furnace"
+        "ResourceTypeId": "Wood_Trunk",
+        "Quantity": 6
+      },
+      {
+        "ResourceTypeId": "Rock",
+        "Quantity": 6
       },
       {
         "ItemId": "Ingredient_Bar_Mithril",
