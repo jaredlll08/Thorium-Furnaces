@@ -10,15 +10,12 @@
   "Recipe": {
     "Input": [
       {
-        "ItemId": "Bench_Furnace",
-        "Metadata": {
-          "BlockState": {
-            "Type": "processingBench",
-            "FuelContainer": {
-              "Capacity": 2
-            }
-          }
-        }
+        "ResourceTypeId": "Wood_Trunk",
+        "Quantity": 6
+      },
+      {
+        "ResourceTypeId": "Rock",
+        "Quantity": 6
       },
       {
         "ItemId": "Ingredient_Bar_Bronze",
