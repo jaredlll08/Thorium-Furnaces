@@ -10,7 +10,15 @@
   "Recipe": {
     "Input": [
       {
-        "ItemId": "Bench_Furnace"
+        "ItemId": "Bench_Furnace",
+        "Metadata": {
+          "BlockState": {
+            "Type": "processingBench",
+            "FuelContainer": {
+              "Capacity": 2
+            }
+          }
+        }
       },
       {
         "ItemId": "Ingredient_Bar_Bronze",
@@ -19,7 +27,7 @@
     ],
     "Output": [
       {
-        "ItemId": "Bench_Furnace",
+        "ItemId": "BlameJared_ThoriumFurnaces_Bronze_Furnace",
         "Metadata": {
           "BlockState": {
             "Type": "processingBench",
