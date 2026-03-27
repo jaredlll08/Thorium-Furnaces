@@ -109,8 +109,13 @@
         }
       ]
     },
+    "BlockEntity": {
+      "Components": {
+        "BenchBlock": {},
+        "ProcessingBenchBlock": {}
+      }
+    },
     "State": {
-      "Id": "processingBench",
       "Definitions": {
         "Processing": {
           "Looping": true,
@@ -192,5 +197,6 @@
     ]
   },
   "MaxStack": 1,
+  "ItemLevel": 1,
   "ItemSoundSetId": "ISS_Blocks_Stone"
 }
